@@ -1,0 +1,2 @@
+C:/Users/Bruk/Desktop/The App/sport/etsport/android/app/.cxx/RelWithDebInfo/1r5o1rg5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Bruk/Desktop/The App/sport/etsport/android/app/.cxx/RelWithDebInfo/1r5o1rg5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

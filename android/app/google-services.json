@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "437003377452",
+    "firebase_url": "https://home-workout-app-61a7d-default-rtdb.firebaseio.com",
+    "project_id": "home-workout-app-61a7d",
+    "storage_bucket": "home-workout-app-61a7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437003377452:android:f9d2ea4b83e700fd90aa89",
+        "android_client_info": {
+          "package_name": "com.example.etsport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByHf2ygh-xIOenkXxQL2EjAmrv8abmeGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437003377452:android:827238e09678654890aa89",
+        "android_client_info": {
+          "package_name": "com.tenaplus.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByHf2ygh-xIOenkXxQL2EjAmrv8abmeGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

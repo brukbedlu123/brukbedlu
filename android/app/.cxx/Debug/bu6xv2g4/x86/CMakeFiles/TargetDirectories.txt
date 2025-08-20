@@ -1,0 +1,2 @@
+C:/Users/Bruk/.vscode/The App/sport/etsport/android/app/.cxx/Debug/bu6xv2g4/x86/CMakeFiles/edit_cache.dir
+C:/Users/Bruk/.vscode/The App/sport/etsport/android/app/.cxx/Debug/bu6xv2g4/x86/CMakeFiles/rebuild_cache.dir
